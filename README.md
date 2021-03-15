@@ -16,6 +16,8 @@ The underlying data is publicly available and was explored and analyzed using pa
 * [jedeschule.de](https://jedeschule.de/daten/)
 * [Berlin boroughs geodata](https://github.com/m-hoerz/berlin-shapes)
 
+<img src="dashboard_top.gif" width="1000"/>
+
 ## Possible improvements
 
 * Expand dashboard by adding data about school partners, lunch opportunities, languages offered, staff info, etc.
