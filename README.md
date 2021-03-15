@@ -24,6 +24,13 @@ The underlying data is publicly available and was explored and analyzed using pa
 
 <img src="dashboard_bottom.gif" width="1000"/>
 
+### Usage
+
+* clone repository
+* run `python app.py`
+* open http://localhost:8050/ in your browser
+
+
 ### Possible improvements
 
 * Expand dashboard by adding data about school partners, lunch opportunities, languages offered, staff info, etc.
