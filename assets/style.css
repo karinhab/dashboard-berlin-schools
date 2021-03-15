@@ -1,0 +1,95 @@
+@font-face {
+    font-family: 'AvenirNextBold';
+    src: url('AvenirNextLTPro-Bold.woff') format('woff');
+    font-weight: normal;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+h1 {
+    margin: 0.25em 0 0.125em 0;
+    padding: 0.75em 0.5em;
+    border-radius: 0.25em;
+    font-size: 6em;
+    font-family: "AvenirNextBold", verdana, arial, sans-serif;
+    color: #267354;
+    background-color: #e1f5ed;
+    background-image: url(jess-bailey-l3N9Q27zULw-unsplash.jpg);
+    background-position: bottom;
+    background-size: contain;
+    text-transform: uppercase;
+}
+
+h2 {
+    margin: 0;
+    padding: 3em 1.5em 1em;
+    font-size: 2em;
+    font-family: "AvenirNextBold", verdana, arial, sans-serif;
+    color: #267354;
+    text-transform: uppercase;
+}
+
+.flex {
+    display: flex;
+}
+
+.column {
+    padding: 0.5em 0em;
+    text-align: center;
+}
+
+.w-50.column:nth-child(1),
+.w-60.column:nth-child(1) {
+    padding: 0.5em 0.5em 0.5em 0em;
+}
+
+.w-40.column:nth-child(2),
+.w-50.column:nth-child(2) {
+    padding: 0.5em 0em 0.5em 0.5em;
+}
+
+.w-40 {
+    width: 40%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-60 {
+    width: 60%;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.dash-graph {
+    padding: 0.6em;
+    border-radius: 1rem;
+    background-color: #e1f5ed;
+}
+
+.dropdown-container {
+    position: relative;
+}
+
+#demo-dropdown {
+    position: absolute;
+    top: 19em;
+    right: 2em;
+    width: 34ch;
+    z-index: 1;
+}
+
+.svg-container> :first-child {
+    border-radius: 1rem;
+}
