@@ -22,6 +22,8 @@ The underlying data is publicly available and was explored and analyzed using pa
 
 <img src="dashboard_top.gif" width="1000"/>
 
+<img src="dashboard_bottom.gif" width="1000"/>
+
 ### Possible improvements
 
 * Expand dashboard by adding data about school partners, lunch opportunities, languages offered, staff info, etc.
