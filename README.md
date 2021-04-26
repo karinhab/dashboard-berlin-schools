@@ -20,7 +20,7 @@ The underlying data is publicly available and was explored and analyzed using pa
 
 ### Dashboard
 
-<img src="dashboard.gif" width="1000"/>
+<img src="dashboard_top.gif" width="1000"/>
 
 <img src="dashboard_bottom.gif" width="1000"/>
 
